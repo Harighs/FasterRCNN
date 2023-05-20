@@ -1,0 +1,12 @@
+# Ignore Everything
+*
+
+# Except for these files
+!git
+!.gitignore
+!models
+!FasterRCNN.ipynb
+!FasterRcnn.py
+!helper.py
+!README.md
+!requirements.txt
